@@ -9,6 +9,14 @@
     "homepage": "http://framework.zend.com/",
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zendframework": ">2.1.3"
+        "zendframework/zendframework": ">2.1.3",
+		
+		"doctrine/doctrine-orm-module": "~0.7",
+		
+		"zf-commons/zfc-user": "~0.1",
+        "zf-commons/zfc-user-doctrine-orm": "~0.1",
+        "bjyoungblood/bjy-authorize": "~1.1",
+        
+    	"gabriel403/g403-translator": "dev-master"
     }
 }
