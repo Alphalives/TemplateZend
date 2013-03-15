@@ -17,6 +17,7 @@
         "zf-commons/zfc-user-doctrine-orm": "~0.1",
         "bjyoungblood/bjy-authorize": "~1.1",
         
-    	"gabriel403/g403-translator": "dev-master"
+    	"gabriel403/g403-translator": "dev-master",
+        "zendframework/zend-developer-tools": "dev-master"
     }
 }
