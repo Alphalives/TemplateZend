@@ -5,6 +5,9 @@ return array(
        'ZendDeveloperTools',
         'DoctrineModule',
         'DoctrineORMModule',
+		
+		'AssetManager',
+		
         'Application',
     ),
 
