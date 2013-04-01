@@ -1,0 +1,22 @@
+<h1>Alphalives Test - Page Sécu Ressource</h1>
+<p>
+<? if ($this->isAllowed('ressource1')) { ?>
+	Je suis un guest
+<? }else{ ?>
+ Je ne suis pas un guest
+<? } ?>
+</p>
+<p>
+<? if ($this->isAllowed('ressource2')) { ?>
+	Je suis un user
+<? }else{ ?>
+ Je ne suis pas un user
+<? } ?>
+</p>
+<p>
+<? if ($this->isAllowed('ressource3', 'action1')) { ?>
+	Je suis un admin
+<? }else{ ?>
+ Je ne suis pas un admin
+<? } ?>
+</p>

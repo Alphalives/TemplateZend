@@ -28,6 +28,10 @@
 		{
             "type": "vcs",
             "url": "git@github.com:Alphalives/AlmUser.git"
+        },
+		{
+            "type": "vcs",
+            "url": "git@github.com:Alphalives/AlmAuthorize.git"
         }
     ],
 	
@@ -40,6 +44,7 @@
 		"zf-commons/zfc-user": "~0.1",
         "zf-commons/zfc-user-doctrine-orm": "~0.1",
 		"zf-commons/zfc-admin": "dev-master",
+		
 		
 		
         "bjyoungblood/bjy-authorize": "~1.1",
@@ -56,6 +61,7 @@
 		"alphalives/alm-page": "dev-master",
 		"alphalives/alm-translate": "dev-master",
 		"alphalives/alm-user": "dev-master",
-		"alphalives/alm-base": "dev-master"
+		"alphalives/alm-base": "dev-master",
+		"alphalives/alm-authorize": "dev-master"
     }
 }
