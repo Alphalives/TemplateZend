@@ -28,10 +28,6 @@
 		{
             "type": "vcs",
             "url": "git@github.com:Alphalives/AlmUser.git"
-        },
-		{
-            "type": "vcs",
-            "url": "git@github.com:Alphalives/AlmAuthorize.git"
         }
     ],
 	
