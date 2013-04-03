@@ -13,18 +13,9 @@
             "type": "vcs",
             "url": "git@github.com:Alphalives/AlmBase.git"
         },
-		{
-            "type": "vcs",
-            "url": "git@github.com:Alphalives/AlmActu.git"
-        },
-		{
-            "type": "vcs",
-            "url": "git@github.com:Alphalives/AlmPage.git"
-        },
-		{
-            "type": "vcs",
-            "url": "git@github.com:Alphalives/AlmTranslate.git"
-        },
+	
+	
+	
 		{
             "type": "vcs",
             "url": "git@github.com:Alphalives/AlmUser.git"
@@ -53,9 +44,7 @@
 		"rwoverdijk/assetmanager": "dev-master",
 		
 		
-		"alphalives/alm-actu": "dev-master",
-		"alphalives/alm-page": "dev-master",
-		"alphalives/alm-translate": "dev-master",
+		
 		"alphalives/alm-user": "dev-master",
 		"alphalives/alm-base": "dev-master"
     }
