@@ -19,9 +19,9 @@ return array(
 		'G403Translator',
 		
 		'AlmBase',
-		'AlmTranslate',
+		//'AlmTranslate',
 		'AlmUser',
-		'AlmAuthorize',
+	//	'AlmAuthorize',
 		
 		
         'Application',
